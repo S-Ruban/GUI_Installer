@@ -1,0 +1,3 @@
+script1.sh 50
+script2.sh 80
+script3.sh 100
